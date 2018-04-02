@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSky">#CAEBF2</color>
+    <color name="colorCarbon">#A9A9A9</color>
+    <color name="ok_green">#5cb85c</color>
+    <color name="update">#f0ad4e</color>
+    <color name="close_red">#F44336</color>
+    <color name="background_color">#FFF</color>
+    <color name="border_color">#000</color>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_submit">Submit</string>
+    <string name="enter_id">Roll No</string>
+    <string name="enter_amount">Amount</string>
+    <string name="show_amount">₹%1$s</string>
+
+    <!-- Titles -->
+    <string name="app_name">CanteenOS</string>
+    <string name="food_item">Food Item</string>
+
+
+    <!-- Feedback Strings -->
+    <string name="fb_accounts">Student Accounts</string>
+    <string name="fb_menu">Food Menu</string>
+    <string name="fb_bal_sheet">Balance Sheet</string>
+    <string name="fb_balance">Balance Sheet</string>
+    <string name="fb_logout">Logout</string>
+</resources>
+
