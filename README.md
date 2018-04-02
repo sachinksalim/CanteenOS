@@ -1,7 +1,7 @@
 # CanteenOS
 An android application for facilitating the accounting of IIT Kanpur hostel canteens.
 
-## Team
+### Team
 
 * **Ruchita Maitri** - *CEO/Founder*
 * **Sachin K Salim** - *CTO/Co-founder*
